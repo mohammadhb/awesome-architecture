@@ -9,7 +9,7 @@
 
 # Ports and Adapters
 
-![Hexagonal architecture with business logic in the core (“application”), ports, adapters, and external components](Software Architectures/hexagonal-architecture-port-and-adapter.png)
+![Hexagonal architecture with business logic in the core (“application”), ports, adapters, and external components](https://github.com/mohammadhb/awesome-architecture/blob/682d7a6fed57c3570c2eb95a4d29fb3254ec57bb/Software%20Architectures/hexagonal-architecture-port-and-adapter.png?raw=true)
 
 - Business logic (“application”) is at the core of the architecture.
 - Business logic communicates with the outside world through well-defined interfaces (“ports”).
@@ -27,7 +27,7 @@
 
 
 
-![Hexagonal architecture with control flow](Software Architectures/hexagonal-architecture-with-control-flow.webp)
+![Hexagonal architecture with control flow](https://raw.githubusercontent.com/mohammadhb/awesome-architecture/682d7a6fed57c3570c2eb95a4d29fb3254ec57bb/Software%20Architectures/hexagonal-architecture-with-control-flow.webp)
 
 The above illustration shows an exemplary application which:
 
@@ -37,11 +37,11 @@ The above illustration shows an exemplary application which:
 4. controls a database and
 5. controls an external application.
 
-## Ingoing vs. Outgoing Ports
+## Ingoing vs Ports
 
-![Hexagonal architecture: port with user interface and REST adapter](Software Architectures/hexagonal-architecture-driving-ports-and-adapters.png)
+![Hexagonal architecture: port with user interface and REST adapter](https://github.com/mohammadhb/awesome-architecture/blob/682d7a6fed57c3570c2eb95a4d29fb3254ec57bb/Software%20Architectures/hexagonal-architecture-driving-ports-and-adapters.png?raw=true)
 
-![Hexagonal architecture: port with a database adapter](Software Architectures/hexagonal-architecture-driven-port-and-adapter.png)
+![Hexagonal architecture: port with a database adapter](https://github.com/mohammadhb/awesome-architecture/blob/682d7a6fed57c3570c2eb95a4d29fb3254ec57bb/Software%20Architectures/hexagonal-architecture-driven-port-and-adapter.png?raw=true)
 
 
 
