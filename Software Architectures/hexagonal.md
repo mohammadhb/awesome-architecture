@@ -9,7 +9,7 @@
 
 # Ports and Adapters
 
-![Hexagonal architecture with business logic in the core (“application”), ports, adapters, and external components](https://www.happycoders.eu/wp-content/uploads/2023/01/hexagonal-architecture.v2-600x431.png)
+![Hexagonal architecture with business logic in the core (“application”), ports, adapters, and external components](Software Architectures/hexagonal-architecture-port-and-adapter.png)
 
 - Business logic (“application”) is at the core of the architecture.
 - Business logic communicates with the outside world through well-defined interfaces (“ports”).
@@ -27,7 +27,7 @@
 
 
 
-![Hexagonal architecture with control flow](https://www.happycoders.eu/wp-content/uploads/2023/01/hexagonal-architecture-with-control-flow.v4-800x474.png)
+![Hexagonal architecture with control flow](Software Architectures/hexagonal-architecture-with-control-flow.webp)
 
 The above illustration shows an exemplary application which:
 
@@ -39,9 +39,9 @@ The above illustration shows an exemplary application which:
 
 ## Ingoing vs. Outgoing Ports
 
-![Hexagonal architecture: port with user interface and REST adapter](https://www.happycoders.eu/wp-content/uploads/2023/01/hexagonal-architecture-driving-ports-and-adapters-600x348.png)
+![Hexagonal architecture: port with user interface and REST adapter](Software Architectures/hexagonal-architecture-driving-ports-and-adapters.png)
 
-![Hexagonal architecture: port with a database adapter](https://www.happycoders.eu/wp-content/uploads/2023/01/hexagonal-architecture-driven-port-and-adapter-600x348.png)
+![Hexagonal architecture: port with a database adapter](Software Architectures/hexagonal-architecture-driven-port-and-adapter.png)
 
 
 
